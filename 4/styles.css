@@ -8,6 +8,9 @@
     font-family: 'Helvetica Neue', sans-serif;
     color: #1c1c1c;
     background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .container {
