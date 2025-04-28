@@ -42,19 +42,19 @@ body {
     color: white;
 }
 
-.gallery {
+.imagenes {
     display: flex;
     justify-content: center;
     padding: 2rem;
 }
 
-.image-grid {
+.imagen {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
 }
 
-.image {
+.imagen {
     width: 100%;
     padding-bottom: 100%;
     background-size: cover;
