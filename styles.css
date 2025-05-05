@@ -1,0 +1,12 @@
+.cartas {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 25%;
+    border-radius: 4px;
+    text-align: center;
+    padding: 1rem;
+    transition: box-shadow 0.3s ease;
+    border: 1px solid #bbb;
+}
