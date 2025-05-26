@@ -43,7 +43,7 @@ body {
 }
 
 .imagenes {
-    display: flex;
+    display: grid;
     justify-content: center;
     padding: 2rem;
 }
